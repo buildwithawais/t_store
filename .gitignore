@@ -1,3 +1,7 @@
+# Custom IDE settings
+.idea/
+build/
+
 # Miscellaneous
 *.class
 *.lock
