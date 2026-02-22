@@ -52,7 +52,6 @@ T Store is a modern and fully-featured **Flutter e-commerce application** built 
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/yourusername/t_store.git
 cd t_store
 flutter pub get
 flutter run
