@@ -9,9 +9,8 @@ import 'package:t_store/utils/local_storage/storage_utility.dart';
 
 import 'firebase_options.dart';
 
-const supabaseUrl = 'https://jobtwrnywubkskdyzxve.supabase.co';
-const supabaseKey =
-    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImpvYnR3cm55d3Via3NrZHl6eHZlIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NTkyOTU0NzksImV4cCI6MjA3NDg3MTQ3OX0.PDqm6rv2k2x3hsCOIoFqDCIHmKO61BbutbbJ0iF6C6o';
+const supabaseUrl = '....................';
+const supabaseKey = '...................';
 
 Future<void> main() async {
   /// Add Widgets Binding
